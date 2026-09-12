@@ -1,0 +1,42 @@
+[
+  {
+    "name": "astra-1",
+    "prompt": "Generate one premium cinematic photorealistic abstract space background, landscape 16:9, 1920x1080 composition for elegant presentation. Cohesive restrained Apple-like art direction: almost-black background, realistic physically based light and materials, extraordinary fine detail, subtle cinematic haze, sculptural focal object concentrated on RIGHT half, LEFT 50 percent kept very dark and empty for readable typography. No text, letters, logos, UI, watermark, borders, or collage. Violet luminous stellar nebula with an elegant sculptural orbital ring on the right. Purple-magenta light arcs encircle an intense distant star, sparse tiny stars, restrained deep violet palette.",
+    "path": "assets/astra-1.webp"
+  },
+  {
+    "name": "astra-2",
+    "prompt": "Generate one premium cinematic photorealistic abstract space background, landscape 16:9, 1920x1080 composition for elegant presentation. Cohesive restrained Apple-like art direction: almost-black background, realistic physically based light and materials, extraordinary fine detail, subtle cinematic haze, sculptural focal object concentrated on RIGHT half, LEFT 50 percent kept very dark and empty for readable typography. No text, letters, logos, UI, watermark, borders, or collage. Violet cosmic filament network sweeping through the right half, organic luminous threads and constellations with deep dimensionality, precise graceful curves, delicate purple light nodes, sparse stars.",
+    "path": "assets/astra-2.webp"
+  },
+  {
+    "name": "sol-1",
+    "prompt": "Generate one premium cinematic photorealistic abstract space background, landscape 16:9, 1920x1080 composition for elegant presentation. Cohesive restrained Apple-like art direction: almost-black background, realistic physically based light and materials, extraordinary fine detail, subtle cinematic haze, sculptural focal object concentrated on RIGHT half, LEFT 50 percent kept very dark and empty for readable typography. No text, letters, logos, UI, watermark, borders, or collage. Massive golden sun sphere on the right, dramatic fine-detail solar corona and amber luminous rim, partially shadowed sphere, near-black empty space. Warm gold monochrome, exquisite plasma detail.",
+    "path": "assets/sol-1.webp"
+  },
+  {
+    "name": "sol-2",
+    "prompt": "Generate one premium cinematic photorealistic abstract space background, landscape 16:9, 1920x1080 composition for elegant presentation. Cohesive restrained Apple-like art direction: almost-black background, realistic physically based light and materials, extraordinary fine detail, subtle cinematic haze, sculptural focal object concentrated on RIGHT half, LEFT 50 percent kept very dark and empty for readable typography. No text, letters, logos, UI, watermark, borders, or collage. Golden flowing plasma ribbon swirling across the right half of black space, fluid luminous amber folds, magnetic energy filaments, sculptural elegant restrained form, fine particles.",
+    "path": "assets/sol-2.webp"
+  },
+  {
+    "name": "terra-1",
+    "prompt": "Generate one premium cinematic photorealistic abstract space background, landscape 16:9, 1920x1080 composition for elegant presentation. Cohesive restrained Apple-like art direction: almost-black background, realistic physically based light and materials, extraordinary fine detail, subtle cinematic haze, sculptural focal object concentrated on RIGHT half, LEFT 50 percent kept very dark and empty for readable typography. No text, letters, logos, UI, watermark, borders, or collage. Emerald planet horizon filling lower right, dramatic curved planetary limb, detailed dark rocky land and green atmospheric glow, soft luminous emerald cloud layers, calm cinematic cosmic scene.",
+    "path": "assets/terra-1.webp"
+  },
+  {
+    "name": "terra-2",
+    "prompt": "Generate one premium cinematic photorealistic abstract space background, landscape 16:9, 1920x1080 composition for elegant presentation. Cohesive restrained Apple-like art direction: almost-black background, realistic physically based light and materials, extraordinary fine detail, subtle cinematic haze, sculptural focal object concentrated on RIGHT half, LEFT 50 percent kept very dark and empty for readable typography. No text, letters, logos, UI, watermark, borders, or collage. Abstract luminous green mineral and geological strata on the right, sculptural closeup of dark polished layered stone cliffs with fine emerald light seams, realistic textured geology, obsidian and green, restrained sci-fi.",
+    "path": "assets/terra-2.webp"
+  },
+  {
+    "name": "luna-1",
+    "prompt": "Generate one premium cinematic photorealistic abstract space background, landscape 16:9, 1920x1080 composition for elegant presentation. Cohesive restrained Apple-like art direction: almost-black background, realistic physically based light and materials, extraordinary fine detail, subtle cinematic haze, sculptural focal object concentrated on RIGHT half, LEFT 50 percent kept very dark and empty for readable typography. No text, letters, logos, UI, watermark, borders, or collage. Large silver moon crescent on the right, softly illuminated finely detailed cratered lunar surface, ultra minimal black space with only a few distant faint stars, monochrome silver and very subtle cold blue.",
+    "path": "assets/luna-1.webp"
+  },
+  {
+    "name": "luna-2",
+    "prompt": "Generate one premium cinematic photorealistic abstract space background, landscape 16:9, 1920x1080 composition for elegant presentation. Cohesive restrained Apple-like art direction: almost-black background, realistic physically based light and materials, extraordinary fine detail, subtle cinematic haze, sculptural focal object concentrated on RIGHT half, LEFT 50 percent kept very dark and empty for readable typography. No text, letters, logos, UI, watermark, borders, or collage. Silver-blue lunar dunes and smooth moon terrain sweeping across lower right, photoreal fine powder texture, long soft shadows, low grazing silver light, black sky, serene minimal sculptural horizon.",
+    "path": "assets/luna-2.webp"
+  }
+]

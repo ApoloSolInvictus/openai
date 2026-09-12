@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#08090c">
+  <meta name="description" content="Astra, Sol, Terra y Luna: cuatro modelos de OpenAI, cuatro formas de llevar tus proyectos más lejos. Una experiencia de Lux Aeterna.">
+  <title>Lux Aeterna — Astra · Sol · Terra · Luna</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%2308090c'/%3E%3Cpath d='M16 4 19 13 28 16 19 19 16 28 13 19 4 16 13 13Z' fill='%23c8b3ff'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#experience">Saltar a la presentación</a>
+  <header class="site-header">
+    <a class="brand" href="#astra" aria-label="Lux Aeterna, inicio"><span class="brand-symbol" aria-hidden="true">✳</span><span>lux aeterna<span class="brand-caption">INTELIGENCIA EN ÓRBITA</span></span></a>
+    <nav class="agent-nav" aria-label="Elegir agente">
+      <a href="#astra" aria-current="page">Astra</a><a href="#sol">Sol</a><a href="#terra">Terra</a><a href="#luna">Luna</a>
+    </nav>
+    <button class="about-button" data-open-info>La colección <span aria-hidden="true">↗</span></button>
+  </header>
+  <main id="experience" tabindex="-1" aria-label="Presentación de los cuatro agentes">
+    <h1 class="sr-only">Astra, Sol, Terra y Luna: tu equipo para trabajar con IA</h1>
+    <div id="worlds"></div>
+    <noscript><div class="no-script"><h2>Cuatro formas de trabajar con IA</h2><p>Astra: razonamiento complejo. Sol: trabajo profesional. Terra: equilibrio entre capacidad y costo. Luna: tareas de gran volumen.</p><p>Activa JavaScript para explorar las ocho escenas o visita la <a href="https://developers.openai.com/api/docs/models">documentación oficial de OpenAI</a>.</p></div></noscript>
+  </main>
+  <aside class="world-index" aria-label="Navegación de agentes"><span class="index-line"></span><a href="#astra" aria-label="Ir a Astra" aria-current="page"><span>01</span></a><a href="#sol" aria-label="Ir a Sol"><span>02</span></a><a href="#terra" aria-label="Ir a Terra"><span>03</span></a><a href="#luna" aria-label="Ir a Luna"><span>04</span></a></aside>
+  <footer class="experience-footer">
+    <button id="next-world" class="scroll-hint"><span class="scroll-icon" aria-hidden="true">↓</span><span id="next-world-label">Scroll para descubrir Sol</span></button>
+    <div class="slide-controls" aria-label="Controles de escenas"><button id="previous-slide" class="round-button" aria-label="Escena anterior">←</button><div id="slide-dots"></div><button id="next-slide" class="round-button" aria-label="Escena siguiente">→</button></div>
+    <span class="collection-credit">UNA VISIÓN DE APOLO SOL INVICTUS <span>2026</span></span>
+  </footer>
+  <div id="announcement" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
+  <dialog id="info-dialog" aria-labelledby="info-title">
+    <div class="dialog-header"><span class="eyebrow">LUX AETERNA / LA COLECCIÓN</span><button class="round-button" id="close-info" aria-label="Cerrar información">×</button></div>
+    <h2 id="info-title">Cuatro modelos.<br>Tu siguiente gran idea.</h2>
+    <p>Esta es una presentación independiente de Apolo Sol Invictus, inspirada en los modelos de OpenAI. Aquí los imaginamos como agentes de tu equipo: el modelo aporta la inteligencia; las herramientas y las instrucciones definen lo que puede hacer el agente.</p>
+    <p>Las escenas espaciales son interpretaciones artísticas creadas con IA. Los ejemplos son propuestas de uso, no resultados garantizados ni comparativas de rendimiento.</p>
+    <h3>Fuentes oficiales</h3>
+    <div class="source-links"><a href="https://developers.openai.com/api/docs/models/gpt-6-astra" target="_blank" rel="noreferrer">GPT-6 Astra <span>↗</span></a><a href="https://developers.openai.com/api/docs/models/gpt-5.6-sol" target="_blank" rel="noreferrer">GPT-5.6 Sol <span>↗</span></a><a href="https://developers.openai.com/api/docs/models/gpt-5.6-terra" target="_blank" rel="noreferrer">GPT-5.6 Terra <span>↗</span></a><a href="https://developers.openai.com/api/docs/models/gpt-5.6-luna" target="_blank" rel="noreferrer">GPT-5.6 Luna <span>↗</span></a></div>
+    <p class="fine-print">Documentación consultada el 12 de septiembre de 2026. Capacidades y disponibilidad pueden cambiar. Las herramientas dependen del entorno y de su configuración. Sitio no afiliado a OpenAI.</p>
+    <div class="accessibility-setting"><label for="reduce-motion">Reducir animaciones</label><input type="checkbox" id="reduce-motion"></div>
+    <p class="fine-print">↑ ↓ cambia de agente · ← → cambia de escena · Inicio / Fin salta al primero / último. En móvil, desliza en la dirección que quieras explorar.</p>
+    <a class="repo-link" href="https://github.com/ApoloSolInvictus/openai" target="_blank" rel="noreferrer">Explorar el proyecto en GitHub ↗</a>
+  </dialog>
+</body>
+</html>
